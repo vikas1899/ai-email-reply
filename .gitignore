@@ -33,6 +33,6 @@ build/
 .vscode/
 
 # Ignore sensitive configs
-application.properties
+
 application.yml
 .env
